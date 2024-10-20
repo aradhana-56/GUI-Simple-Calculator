@@ -1,4 +1,4 @@
-<h1>Simple Calculator</h1>
+<h1>GUI based Simple Calculator</h1>
 <h3>Description<h3>
 <p>This is a basic calculator program built using Java. It supports fundamental arithmetic operations and is designed to be run from the console. The project demonstrates basic Java programming concepts such as user input handling, control flow, and basic error management.</p>
 
