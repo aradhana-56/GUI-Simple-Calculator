@@ -18,6 +18,6 @@
 <li>A terminal or command line interface</li>
 <h3>Contact</h3>
 <ul>
-<li>Author:Aradhana Patra</li>
-<li>Email:ankipatra4274@gmail.com</li>
+<li>Author: Aradhana Patra</li>
+<li>Email: ankipatra4274@gmail.com</li>
 
