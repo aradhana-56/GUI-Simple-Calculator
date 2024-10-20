@@ -2,7 +2,7 @@
 <br>
 This is a basic calculator program built using Java. It supports fundamental arithmetic operations and is designed to be run from the console. The project demonstrates basic Java programming concepts such as user input handling, control flow, and basic error management.
   <br>
-#**Features**
+## Features
 <br>
   •	Addition, Subtraction, Multiplication, Division
   <br>
@@ -16,7 +16,7 @@ This is a basic calculator program built using Java. It supports fundamental ari
     <br>
   •	Implements a graphical user interface (GUI)
     <br>
-#**Requirements**
+## Requirements
   <br>
   •	Programming Language: JAVA
   <br>
@@ -24,7 +24,7 @@ This is a basic calculator program built using Java. It supports fundamental ari
     <br>
   •	A terminal or command line interface
     <br>
-#**Contact**
+## Contact
   <br>
   •	Aradhana Patra
   <br>
