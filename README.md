@@ -20,4 +20,4 @@
 <ul>
 <li>Author: Aradhana Patra</li>
 <li>Email: ankipatra4274@gmail.com</li>
-<li>Linkedin: <a href="[http://www.linkedin.com/in/aradhana-patra-8694642b5]"></li>
+
